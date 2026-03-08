@@ -32,7 +32,8 @@ This project analyzes an insurance portfolio to evaluate risk exposure, claim tr
    Interactive dashboard used to visualize portfolio metrics such as total claims, premium, loss ratio, and monthly claim trends.
 
 5. Dashboard Image.png
-   ![Dashboard](<Screenshot 2026-03-08 123739.png>)
+  ![Uploading Dashboard Image.png…]()
+
 
 ## Key Metrics Analyzed
 
