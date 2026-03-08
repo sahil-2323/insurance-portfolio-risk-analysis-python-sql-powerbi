@@ -20,18 +20,22 @@ This project analyzes an insurance portfolio to evaluate risk exposure, claim tr
 ## Project Files
 
 1. Database_Creation.ipynb
+
    Python notebook used to generate synthetic insurance datasets including policy and claims data.
 
-2. Queries.sql
-   Contains all SQL queries used to create tables and perform portfolio analysis.
+3. Queries.sql
 
-3. Insurance Policy Sales and Claims Report.pdf
+    Contains all SQL queries used to create tables and perform portfolio analysis.
+
+5. Insurance Policy Sales and Claims Report.pdf
+
    Final report describing the methodology, SQL analysis, insights, and business recommendations.
 
-4. Insurance Policy Sales and Claims Dashboard
+7. Insurance Policy Sales and Claims Dashboard
+
    Interactive dashboard used to visualize portfolio metrics such as total claims, premium, loss ratio, and monthly claim trends.
 
-5. Dashboard Image.png
+9. Dashboard Image.png
 
 
 ## Key Metrics Analyzed
